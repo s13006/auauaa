@@ -1,0 +1,8 @@
+
+.enemyhand {
+  width: 180;
+  height: 180;
+  display: block;
+  overflow: hidden;
+  background: transparent url(../images/gcp.png) no-repeat center;
+}
